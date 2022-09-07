@@ -19,6 +19,8 @@ Based on [original Electronics_Box ](https://https://github.com/Annex-Engineerin
 
 ![picture](images/photo01.jpg)
 ![picture](images/photo02.jpg)
+![picture](images/photo03.jpg)
+![picture](images/photo04.jpg)
 
 The source CAD are included, You can make any changes you want.
 
