@@ -14,6 +14,8 @@ Based on [original Electronics_Box ](https://https://github.com/Annex-Engineerin
 - Changed the design of some panels
 - Case side panels now have a structural design
 
+![picture](images/image05.png)
+
 The source CAD are included, you can change them however you like.
 
 _Special thanks to Vladlen Borovikov (discord: v_b#2674), the idea and design of the two-color panels is completely his. Special thanks to the local community of users of Annexes and VORON in Russia._
