@@ -11,11 +11,13 @@ Based on [original Electronics_Box ](https://https://github.com/Annex-Engineerin
 - Mounts for two power supplies LRS-200-48 and HUP-200-24
 - Mounts for SSR (Crydom ED24C5)
 - Mount for power relay BIGTREETECH-Relay-V1.2
-- Mount for MCU like this https://aliexpress.ru/item/1005003572003721.html
+- Mount for RPI4 Case, like this https://aliexpress.ru/item/1005003572003721.html
 - Changed the design of some panels
 - Case side panels now have a structural design
 
 ![picture](images/image05.png)
+
+![picture](images/photo01.jpg)
 
 The source CAD are included, You can make any changes you want.
 
