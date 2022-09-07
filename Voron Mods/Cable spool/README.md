@@ -7,4 +7,3 @@
 
 
 
-_Special thanks to Vladlen Borovikov (discord: v_b#2687), the idea and design of the two-color panels is completely his. Special thanks to the local community of users of Annex and VORON in Russia._
