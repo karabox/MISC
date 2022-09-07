@@ -1,10 +1,11 @@
-#Gasherbrum-K3 Custom Electronics Box
+#RED BOX 
+##Gasherbrum-K3 Custom Electronics Box
 
 Based on [original Electronics_Box ](https://https://github.com/Annex-Engineering/Gasherbrum-K3/tree/main/Release_1_1/STLs/Electronics_Box/) 
 
 ![picture](images/image01.png)
 
-##Аdded the following changes:
+###Аdded the following changes:
 
 - Horizontal rails for equipment mounting and cable management
 - Mounts for two power supplies LRS-200-48 and HUP-200-24
