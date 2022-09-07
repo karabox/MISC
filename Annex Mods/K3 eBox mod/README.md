@@ -8,7 +8,7 @@ Based on [original Electronics_Box ](https://https://github.com/Annex-Engineerin
 ### Аdded the following changes:
 
 - Horizontal rails for equipment mounting and cable management
-- Mounts for two power supplies LRS-200-48 and HUP-200-24
+- Mounts for two power supplies LRS-200-48 and UHP-200-24
 - Mounts for SSR (Crydom ED24C5)
 - Mount for power relay BIGTREETECH-Relay-V1.2
 - Mount for RPI4 Case, like this https://aliexpress.ru/item/1005003572003721.html
